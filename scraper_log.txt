@@ -1,0 +1,729 @@
+[2025-05-11 05:02] ✅ Save completed: ctgr_0511_05.csv
+[2025-05-11 05:34] ✅ Save completed: subctgr_0511_05.csv
+[2025-05-11 17:02] ✅ Save completed: ctgr_0511_17.csv
+[2025-05-11 17:35] ✅ Save completed: subctgr_0511_17.csv
+[2025-05-12 05:02] ✅ Save completed: ctgr_0512_05.csv
+[2025-05-12 05:34] ✅ Save completed: subctgr_0512_05.csv
+[2025-05-12 17:02] ✅ Save completed: ctgr_0512_17.csv
+[2025-05-12 17:35] ✅ Save completed: subctgr_0512_17.csv
+[2025-05-13 05:02] ✅ Save completed: ctgr_0513_05.csv
+[2025-05-13 05:34] ✅ Save completed: subctgr_0513_05.csv
+[2025-05-13 17:02] ✅ Save completed: ctgr_0513_17.csv
+[2025-05-13 17:34] ✅ Save completed: subctgr_0513_17.csv
+[2025-05-14 05:02] ✅ Save completed: ctgr_0514_05.csv
+[2025-05-14 05:34] ✅ Save completed: subctgr_0514_05.csv
+[2025-05-14 17:02] ✅ Save completed: ctgr_0514_17.csv
+[2025-05-14 17:34] ✅ Save completed: subctgr_0514_17.csv
+[2025-05-15 05:02] ✅ Save completed: ctgr_0515_05.csv
+[2025-05-15 05:34] ✅ Save completed: subctgr_0515_05.csv
+[2025-05-15 17:02] ✅ Save completed: ctgr_0515_17.csv
+[2025-05-15 17:35] ✅ Save completed: subctgr_0515_17.csv
+[2025-05-16 05:02] ✅ Save completed: ctgr_0516_05.csv
+[2025-05-16 05:15] ❌ Error occurred: HTTPConnectionPool(host='localhost', port=46207): Read timed out. (read timeout=120)
+[2025-05-16 17:01] ✅ Save completed: ctgr_0516_17.csv
+[2025-05-16 17:34] ✅ Save completed: subctgr_0516_17.csv
+[2025-05-17 05:02] ✅ Save completed: ctgr_0517_05.csv
+[2025-05-17 05:34] ✅ Save completed: subctgr_0517_05.csv
+[2025-05-17 17:02] ✅ Save completed: ctgr_0517_17.csv
+[2025-05-17 17:36] ✅ Save completed: subctgr_0517_17.csv
+[2025-05-18 05:02] ✅ Save completed: ctgr_0518_05.csv
+[2025-05-18 05:34] ✅ Save completed: subctgr_0518_05.csv
+[2025-05-18 17:02] ✅ Save completed: ctgr_0518_17.csv
+[2025-05-18 17:34] ✅ Save completed: subctgr_0518_17.csv
+[2025-05-19 05:02] ✅ Save completed: ctgr_0519_05.csv
+[2025-05-19 05:34] ✅ Save completed: subctgr_0519_05.csv
+[2025-05-19 17:01] ✅ Save completed: ctgr_0519_17.csv
+[2025-05-19 17:35] ✅ Save completed: subctgr_0519_17.csv
+[2025-05-20 05:02] ✅ Save completed: ctgr_0520_05.csv
+[2025-05-20 05:34] ✅ Save completed: subctgr_0520_05.csv
+[2025-05-20 17:02] ✅ Save completed: ctgr_0520_17.csv
+[2025-05-20 17:36] ✅ Save completed: subctgr_0520_17.csv
+[2025-05-21 05:02] ✅ Save completed: ctgr_0521_05.csv
+[2025-05-21 05:33] ✅ Save completed: subctgr_0521_05.csv
+[2025-05-21 17:02] ✅ Save completed: ctgr_0521_17.csv
+[2025-05-21 17:35] ✅ Save completed: subctgr_0521_17.csv
+[2025-05-22 05:02] ✅ Save completed: ctgr_0522_05.csv
+[2025-05-22 05:33] ✅ Save completed: subctgr_0522_05.csv
+[2025-05-22 17:01] ✅ Save completed: ctgr_0522_17.csv
+[2025-05-22 17:34] ✅ Save completed: subctgr_0522_17.csv
+[2025-05-23 05:01] ✅ Save completed: ctgr_0523_05.csv
+[2025-05-23 05:34] ✅ Save completed: subctgr_0523_05.csv
+[2025-05-23 17:02] ✅ Save completed: ctgr_0523_17.csv
+[2025-05-23 17:37] ✅ Save completed: subctgr_0523_17.csv
+[2025-05-24 05:02] ✅ Save completed: ctgr_0524_05.csv
+[2025-05-24 05:34] ✅ Save completed: subctgr_0524_05.csv
+[2025-05-24 17:02] ✅ Save completed: ctgr_0524_17.csv
+[2025-05-24 17:35] ✅ Save completed: subctgr_0524_17.csv
+[2025-05-25 05:02] ✅ Save completed: ctgr_0525_05.csv
+[2025-05-25 05:34] ✅ Save completed: subctgr_0525_05.csv
+[2025-05-25 17:02] ✅ Save completed: ctgr_0525_17.csv
+[2025-05-25 17:35] ✅ Save completed: subctgr_0525_17.csv
+[2025-05-26 05:02] ✅ Save completed: ctgr_0526_05.csv
+[2025-05-26 05:34] ✅ Save completed: subctgr_0526_05.csv
+[2025-05-26 17:02] ✅ Save completed: ctgr_0526_17.csv
+[2025-05-26 17:34] ✅ Save completed: subctgr_0526_17.csv
+[2025-05-27 05:01] ✅ Save completed: ctgr_0527_05.csv
+[2025-05-27 05:34] ✅ Save completed: subctgr_0527_05.csv
+[2025-05-27 17:02] ✅ Save completed: ctgr_0527_17.csv
+[2025-05-27 17:35] ✅ Save completed: subctgr_0527_17.csv
+[2025-05-28 05:02] ✅ Save completed: ctgr_0528_05.csv
+[2025-05-28 05:34] ✅ Save completed: subctgr_0528_05.csv
+[2025-05-28 17:02] ✅ Save completed: ctgr_0528_17.csv
+[2025-05-28 17:34] ✅ Save completed: subctgr_0528_17.csv
+[2025-05-29 05:01] ✅ Save completed: ctgr_0529_05.csv
+[2025-05-29 05:34] ✅ Save completed: subctgr_0529_05.csv
+[2025-05-29 17:02] ✅ Save completed: ctgr_0529_17.csv
+[2025-05-29 17:35] ✅ Save completed: subctgr_0529_17.csv
+[2025-05-30 05:02] ✅ Save completed: ctgr_0530_05.csv
+[2025-05-30 05:34] ✅ Save completed: subctgr_0530_05.csv
+[2025-05-30 17:02] ✅ Save completed: ctgr_0530_17.csv
+[2025-05-30 17:35] ✅ Save completed: subctgr_0530_17.csv
+[2025-05-31 05:02] ✅ Save completed: ctgr_0531_05.csv
+[2025-05-31 05:34] ✅ Save completed: subctgr_0531_05.csv
+[2025-05-31 17:02] ✅ Save completed: ctgr_0531_17.csv
+[2025-05-31 17:35] ✅ Save completed: subctgr_0531_17.csv
+[2025-06-01 05:01] ✅ Save completed: ctgr_0601_05.csv
+[2025-06-01 05:34] ✅ Save completed: subctgr_0601_05.csv
+[2025-06-01 17:01] ✅ Save completed: ctgr_0601_17.csv
+[2025-06-01 17:34] ✅ Save completed: subctgr_0601_17.csv
+[2025-06-02 05:02] ✅ Save completed: ctgr_0602_05.csv
+[2025-06-02 05:34] ✅ Save completed: subctgr_0602_05.csv
+[2025-06-02 17:02] ✅ Save completed: ctgr_0602_17.csv
+[2025-06-02 17:37] ✅ Save completed: subctgr_0602_17.csv
+[2025-06-03 05:02] ✅ Save completed: ctgr_0603_05.csv
+[2025-06-03 05:34] ✅ Save completed: subctgr_0603_05.csv
+[2025-06-03 17:02] ✅ Save completed: ctgr_0603_17.csv
+[2025-06-03 17:34] ✅ Save completed: subctgr_0603_17.csv
+[2025-06-04 05:02] ✅ Save completed: ctgr_0604_05.csv
+[2025-06-04 05:33] ✅ Save completed: subctgr_0604_05.csv
+[2025-06-04 17:02] ✅ Save completed: ctgr_0604_17.csv
+[2025-06-04 17:38] ✅ Save completed: subctgr_0604_17.csv
+[2025-06-05 05:02] ✅ Save completed: ctgr_0605_05.csv
+[2025-06-05 05:33] ✅ Save completed: subctgr_0605_05.csv
+[2025-06-05 17:01] ✅ Save completed: ctgr_0605_17.csv
+[2025-06-05 17:36] ✅ Save completed: subctgr_0605_17.csv
+[2025-06-06 05:02] ✅ Save completed: ctgr_0606_05.csv
+[2025-06-06 05:34] ✅ Save completed: subctgr_0606_05.csv
+[2025-06-06 17:02] ✅ Save completed: ctgr_0606_17.csv
+[2025-06-06 17:35] ✅ Save completed: subctgr_0606_17.csv
+[2025-06-07 05:02] ✅ Save completed: ctgr_0607_05.csv
+[2025-06-07 05:34] ✅ Save completed: subctgr_0607_05.csv
+[2025-06-07 17:02] ✅ Save completed: ctgr_0607_17.csv
+[2025-06-07 17:34] ✅ Save completed: subctgr_0607_17.csv
+[2025-06-08 05:02] ✅ Save completed: ctgr_0608_05.csv
+[2025-06-08 05:34] ✅ Save completed: subctgr_0608_05.csv
+[2025-06-08 17:02] ✅ Save completed: ctgr_0608_17.csv
+[2025-06-08 17:34] ✅ Save completed: subctgr_0608_17.csv
+[2025-06-09 05:00] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x55c914ed9ac2 <unknown>
+#1 0x55c914e841f3 <unknown>
+#2 0x55c914bfa3a4 <unknown>
+#3 0x55c914c3099f <unknown>
+#4 0x55c914c30c41 <unknown>
+#5 0x55c914c6a764 <unknown>
+#6 0x55c914c515cd <unknown>
+#7 0x55c914c687c4 <unknown>
+#8 0x55c914c517f3 <unknown>
+#9 0x55c914c26ea3 <unknown>
+#10 0x55c914c28255 <unknown>
+#11 0x55c914eaf1b0 <unknown>
+#12 0x55c914ec1acf <unknown>
+#13 0x55c914ec1510 <unknown>
+#14 0x55c914ec21e5 <unknown>
+#15 0x55c914f0651a <unknown>
+#16 0x55c914ec2524 <unknown>
+#17 0x55c914ea0eae <unknown>
+#18 0x55c914ecd768 <unknown>
+#19 0x55c914ecd887 <unknown>
+#20 0x55c914ee6ef0 <unknown>
+#21 0x7fb75bbdcac3 <unknown>
+#22 0x7fb75bc6da04 clone
+
+[2025-06-09 05:15] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x55bc04dc7ac2 <unknown>
+#1 0x55bc04d721f3 <unknown>
+#2 0x55bc04ae83a4 <unknown>
+#3 0x55bc04b1e99f <unknown>
+#4 0x55bc04b1ec41 <unknown>
+#5 0x55bc04b58764 <unknown>
+#6 0x55bc04b3f5cd <unknown>
+#7 0x55bc04b567c4 <unknown>
+#8 0x55bc04b3f7f3 <unknown>
+#9 0x55bc04b14ea3 <unknown>
+#10 0x55bc04b16255 <unknown>
+#11 0x55bc04d9d1b0 <unknown>
+#12 0x55bc04dafacf <unknown>
+#13 0x55bc04daf510 <unknown>
+#14 0x55bc04db01e5 <unknown>
+#15 0x55bc04df451a <unknown>
+#16 0x55bc04db0524 <unknown>
+#17 0x55bc04d8eeae <unknown>
+#18 0x55bc04dbb768 <unknown>
+#19 0x55bc04dbb887 <unknown>
+#20 0x55bc04dd4ef0 <unknown>
+#21 0x7f3dfe73fac3 <unknown>
+#22 0x7f3dfe7d0a04 clone
+
+[2025-06-09 17:00] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x5589dd5a0ac2 <unknown>
+#1 0x5589dd54b1f3 <unknown>
+#2 0x5589dd2c13a4 <unknown>
+#3 0x5589dd2f799f <unknown>
+#4 0x5589dd2f7c41 <unknown>
+#5 0x5589dd331764 <unknown>
+#6 0x5589dd3185cd <unknown>
+#7 0x5589dd32f7c4 <unknown>
+#8 0x5589dd3187f3 <unknown>
+#9 0x5589dd2edea3 <unknown>
+#10 0x5589dd2ef255 <unknown>
+#11 0x5589dd5761b0 <unknown>
+#12 0x5589dd588acf <unknown>
+#13 0x5589dd588510 <unknown>
+#14 0x5589dd5891e5 <unknown>
+#15 0x5589dd5cd51a <unknown>
+#16 0x5589dd589524 <unknown>
+#17 0x5589dd567eae <unknown>
+#18 0x5589dd594768 <unknown>
+#19 0x5589dd594887 <unknown>
+#20 0x5589dd5adef0 <unknown>
+#21 0x7f7990b95ac3 <unknown>
+#22 0x7f7990c26a04 clone
+
+[2025-06-09 17:15] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x5626995d8ac2 <unknown>
+#1 0x5626995831f3 <unknown>
+#2 0x5626992f93a4 <unknown>
+#3 0x56269932f99f <unknown>
+#4 0x56269932fc41 <unknown>
+#5 0x562699369764 <unknown>
+#6 0x5626993505cd <unknown>
+#7 0x5626993677c4 <unknown>
+#8 0x5626993507f3 <unknown>
+#9 0x562699325ea3 <unknown>
+#10 0x562699327255 <unknown>
+#11 0x5626995ae1b0 <unknown>
+#12 0x5626995c0acf <unknown>
+#13 0x5626995c0510 <unknown>
+#14 0x5626995c11e5 <unknown>
+#15 0x56269960551a <unknown>
+#16 0x5626995c1524 <unknown>
+#17 0x56269959feae <unknown>
+#18 0x5626995cc768 <unknown>
+#19 0x5626995cc887 <unknown>
+#20 0x5626995e5ef0 <unknown>
+#21 0x7efd90127ac3 <unknown>
+#22 0x7efd901b8a04 clone
+
+[2025-06-10 05:00] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x55a818586ac2 <unknown>
+#1 0x55a8185311f3 <unknown>
+#2 0x55a8182a73a4 <unknown>
+#3 0x55a8182dd99f <unknown>
+#4 0x55a8182ddc41 <unknown>
+#5 0x55a818317764 <unknown>
+#6 0x55a8182fe5cd <unknown>
+#7 0x55a8183157c4 <unknown>
+#8 0x55a8182fe7f3 <unknown>
+#9 0x55a8182d3ea3 <unknown>
+#10 0x55a8182d5255 <unknown>
+#11 0x55a81855c1b0 <unknown>
+#12 0x55a81856eacf <unknown>
+#13 0x55a81856e510 <unknown>
+#14 0x55a81856f1e5 <unknown>
+#15 0x55a8185b351a <unknown>
+#16 0x55a81856f524 <unknown>
+#17 0x55a81854deae <unknown>
+#18 0x55a81857a768 <unknown>
+#19 0x55a81857a887 <unknown>
+#20 0x55a818593ef0 <unknown>
+#21 0x7f5051991ac3 <unknown>
+#22 0x7f5051a22a04 clone
+
+[2025-06-10 05:15] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x55bae056bac2 <unknown>
+#1 0x55bae05161f3 <unknown>
+#2 0x55bae028c3a4 <unknown>
+#3 0x55bae02c299f <unknown>
+#4 0x55bae02c2c41 <unknown>
+#5 0x55bae02fc764 <unknown>
+#6 0x55bae02e35cd <unknown>
+#7 0x55bae02fa7c4 <unknown>
+#8 0x55bae02e37f3 <unknown>
+#9 0x55bae02b8ea3 <unknown>
+#10 0x55bae02ba255 <unknown>
+#11 0x55bae05411b0 <unknown>
+#12 0x55bae0553acf <unknown>
+#13 0x55bae0553510 <unknown>
+#14 0x55bae05541e5 <unknown>
+#15 0x55bae059851a <unknown>
+#16 0x55bae0554524 <unknown>
+#17 0x55bae0532eae <unknown>
+#18 0x55bae055f768 <unknown>
+#19 0x55bae055f887 <unknown>
+#20 0x55bae0578ef0 <unknown>
+#21 0x7f3234296ac3 <unknown>
+#22 0x7f3234327a04 clone
+
+[2025-06-10 17:00] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x55b4cefdfac2 <unknown>
+#1 0x55b4cef8a1f3 <unknown>
+#2 0x55b4ced003a4 <unknown>
+#3 0x55b4ced3699f <unknown>
+#4 0x55b4ced36c41 <unknown>
+#5 0x55b4ced70764 <unknown>
+#6 0x55b4ced575cd <unknown>
+#7 0x55b4ced6e7c4 <unknown>
+#8 0x55b4ced577f3 <unknown>
+#9 0x55b4ced2cea3 <unknown>
+#10 0x55b4ced2e255 <unknown>
+#11 0x55b4cefb51b0 <unknown>
+#12 0x55b4cefc7acf <unknown>
+#13 0x55b4cefc7510 <unknown>
+#14 0x55b4cefc81e5 <unknown>
+#15 0x55b4cf00c51a <unknown>
+#16 0x55b4cefc8524 <unknown>
+#17 0x55b4cefa6eae <unknown>
+#18 0x55b4cefd3768 <unknown>
+#19 0x55b4cefd3887 <unknown>
+#20 0x55b4cefecef0 <unknown>
+#21 0x7f2379120ac3 <unknown>
+#22 0x7f23791b1a04 clone
+
+[2025-06-10 17:15] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x55f7c818aac2 <unknown>
+#1 0x55f7c81351f3 <unknown>
+#2 0x55f7c7eab3a4 <unknown>
+#3 0x55f7c7ee199f <unknown>
+#4 0x55f7c7ee1c41 <unknown>
+#5 0x55f7c7f1b764 <unknown>
+#6 0x55f7c7f025cd <unknown>
+#7 0x55f7c7f197c4 <unknown>
+#8 0x55f7c7f027f3 <unknown>
+#9 0x55f7c7ed7ea3 <unknown>
+#10 0x55f7c7ed9255 <unknown>
+#11 0x55f7c81601b0 <unknown>
+#12 0x55f7c8172acf <unknown>
+#13 0x55f7c8172510 <unknown>
+#14 0x55f7c81731e5 <unknown>
+#15 0x55f7c81b751a <unknown>
+#16 0x55f7c8173524 <unknown>
+#17 0x55f7c8151eae <unknown>
+#18 0x55f7c817e768 <unknown>
+#19 0x55f7c817e887 <unknown>
+#20 0x55f7c8197ef0 <unknown>
+#21 0x7f7182722ac3 <unknown>
+#22 0x7f71827b3a04 clone
+
+[2025-06-11 05:00] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x55b75ebf4ac2 <unknown>
+#1 0x55b75eb9f1f3 <unknown>
+#2 0x55b75e9153a4 <unknown>
+#3 0x55b75e94b99f <unknown>
+#4 0x55b75e94bc41 <unknown>
+#5 0x55b75e985764 <unknown>
+#6 0x55b75e96c5cd <unknown>
+#7 0x55b75e9837c4 <unknown>
+#8 0x55b75e96c7f3 <unknown>
+#9 0x55b75e941ea3 <unknown>
+#10 0x55b75e943255 <unknown>
+#11 0x55b75ebca1b0 <unknown>
+#12 0x55b75ebdcacf <unknown>
+#13 0x55b75ebdc510 <unknown>
+#14 0x55b75ebdd1e5 <unknown>
+#15 0x55b75ec2151a <unknown>
+#16 0x55b75ebdd524 <unknown>
+#17 0x55b75ebbbeae <unknown>
+#18 0x55b75ebe8768 <unknown>
+#19 0x55b75ebe8887 <unknown>
+#20 0x55b75ec01ef0 <unknown>
+#21 0x7f3e99febac3 <unknown>
+#22 0x7f3e9a07ca04 clone
+
+[2025-06-11 05:15] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x561263c8eac2 <unknown>
+#1 0x561263c391f3 <unknown>
+#2 0x5612639af3a4 <unknown>
+#3 0x5612639e599f <unknown>
+#4 0x5612639e5c41 <unknown>
+#5 0x561263a1f764 <unknown>
+#6 0x561263a065cd <unknown>
+#7 0x561263a1d7c4 <unknown>
+#8 0x561263a067f3 <unknown>
+#9 0x5612639dbea3 <unknown>
+#10 0x5612639dd255 <unknown>
+#11 0x561263c641b0 <unknown>
+#12 0x561263c76acf <unknown>
+#13 0x561263c76510 <unknown>
+#14 0x561263c771e5 <unknown>
+#15 0x561263cbb51a <unknown>
+#16 0x561263c77524 <unknown>
+#17 0x561263c55eae <unknown>
+#18 0x561263c82768 <unknown>
+#19 0x561263c82887 <unknown>
+#20 0x561263c9bef0 <unknown>
+#21 0x7fb191330ac3 <unknown>
+#22 0x7fb1913c1a04 clone
+
+[2025-06-11 17:00] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x55b7e308eac2 <unknown>
+#1 0x55b7e30391f3 <unknown>
+#2 0x55b7e2daf3a4 <unknown>
+#3 0x55b7e2de599f <unknown>
+#4 0x55b7e2de5c41 <unknown>
+#5 0x55b7e2e1f764 <unknown>
+#6 0x55b7e2e065cd <unknown>
+#7 0x55b7e2e1d7c4 <unknown>
+#8 0x55b7e2e067f3 <unknown>
+#9 0x55b7e2ddbea3 <unknown>
+#10 0x55b7e2ddd255 <unknown>
+#11 0x55b7e30641b0 <unknown>
+#12 0x55b7e3076acf <unknown>
+#13 0x55b7e3076510 <unknown>
+#14 0x55b7e30771e5 <unknown>
+#15 0x55b7e30bb51a <unknown>
+#16 0x55b7e3077524 <unknown>
+#17 0x55b7e3055eae <unknown>
+#18 0x55b7e3082768 <unknown>
+#19 0x55b7e3082887 <unknown>
+#20 0x55b7e309bef0 <unknown>
+#21 0x7fda189e5ac3 <unknown>
+#22 0x7fda18a76a04 clone
+
+[2025-06-11 17:15] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x55cd8d9caac2 <unknown>
+#1 0x55cd8d9751f3 <unknown>
+#2 0x55cd8d6eb3a4 <unknown>
+#3 0x55cd8d72199f <unknown>
+#4 0x55cd8d721c41 <unknown>
+#5 0x55cd8d75b764 <unknown>
+#6 0x55cd8d7425cd <unknown>
+#7 0x55cd8d7597c4 <unknown>
+#8 0x55cd8d7427f3 <unknown>
+#9 0x55cd8d717ea3 <unknown>
+#10 0x55cd8d719255 <unknown>
+#11 0x55cd8d9a01b0 <unknown>
+#12 0x55cd8d9b2acf <unknown>
+#13 0x55cd8d9b2510 <unknown>
+#14 0x55cd8d9b31e5 <unknown>
+#15 0x55cd8d9f751a <unknown>
+#16 0x55cd8d9b3524 <unknown>
+#17 0x55cd8d991eae <unknown>
+#18 0x55cd8d9be768 <unknown>
+#19 0x55cd8d9be887 <unknown>
+#20 0x55cd8d9d7ef0 <unknown>
+#21 0x7f2a26317ac3 <unknown>
+#22 0x7f2a263a8a04 clone
+
+[2025-06-12 05:00] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x55a3c3319ac2 <unknown>
+#1 0x55a3c32c41f3 <unknown>
+#2 0x55a3c303a3a4 <unknown>
+#3 0x55a3c307099f <unknown>
+#4 0x55a3c3070c41 <unknown>
+#5 0x55a3c30aa764 <unknown>
+#6 0x55a3c30915cd <unknown>
+#7 0x55a3c30a87c4 <unknown>
+#8 0x55a3c30917f3 <unknown>
+#9 0x55a3c3066ea3 <unknown>
+#10 0x55a3c3068255 <unknown>
+#11 0x55a3c32ef1b0 <unknown>
+#12 0x55a3c3301acf <unknown>
+#13 0x55a3c3301510 <unknown>
+#14 0x55a3c33021e5 <unknown>
+#15 0x55a3c334651a <unknown>
+#16 0x55a3c3302524 <unknown>
+#17 0x55a3c32e0eae <unknown>
+#18 0x55a3c330d768 <unknown>
+#19 0x55a3c330d887 <unknown>
+#20 0x55a3c3326ef0 <unknown>
+#21 0x7fbe7ce6cac3 <unknown>
+#22 0x7fbe7cefda04 clone
+
+[2025-06-12 05:15] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x55d2f8350ac2 <unknown>
+#1 0x55d2f82fb1f3 <unknown>
+#2 0x55d2f80713a4 <unknown>
+#3 0x55d2f80a799f <unknown>
+#4 0x55d2f80a7c41 <unknown>
+#5 0x55d2f80e1764 <unknown>
+#6 0x55d2f80c85cd <unknown>
+#7 0x55d2f80df7c4 <unknown>
+#8 0x55d2f80c87f3 <unknown>
+#9 0x55d2f809dea3 <unknown>
+#10 0x55d2f809f255 <unknown>
+#11 0x55d2f83261b0 <unknown>
+#12 0x55d2f8338acf <unknown>
+#13 0x55d2f8338510 <unknown>
+#14 0x55d2f83391e5 <unknown>
+#15 0x55d2f837d51a <unknown>
+#16 0x55d2f8339524 <unknown>
+#17 0x55d2f8317eae <unknown>
+#18 0x55d2f8344768 <unknown>
+#19 0x55d2f8344887 <unknown>
+#20 0x55d2f835def0 <unknown>
+#21 0x7f50d1421ac3 <unknown>
+#22 0x7f50d14b2a04 clone
+
+[2025-06-12 17:00] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x559482806ac2 <unknown>
+#1 0x5594827b11f3 <unknown>
+#2 0x5594825273a4 <unknown>
+#3 0x55948255d99f <unknown>
+#4 0x55948255dc41 <unknown>
+#5 0x559482597764 <unknown>
+#6 0x55948257e5cd <unknown>
+#7 0x5594825957c4 <unknown>
+#8 0x55948257e7f3 <unknown>
+#9 0x559482553ea3 <unknown>
+#10 0x559482555255 <unknown>
+#11 0x5594827dc1b0 <unknown>
+#12 0x5594827eeacf <unknown>
+#13 0x5594827ee510 <unknown>
+#14 0x5594827ef1e5 <unknown>
+#15 0x55948283351a <unknown>
+#16 0x5594827ef524 <unknown>
+#17 0x5594827cdeae <unknown>
+#18 0x5594827fa768 <unknown>
+#19 0x5594827fa887 <unknown>
+#20 0x559482813ef0 <unknown>
+#21 0x7fd3ff46eac3 <unknown>
+#22 0x7fd3ff4ffa04 clone
+
+[2025-06-12 17:15] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x561fba894ac2 <unknown>
+#1 0x561fba83f1f3 <unknown>
+#2 0x561fba5b53a4 <unknown>
+#3 0x561fba5eb99f <unknown>
+#4 0x561fba5ebc41 <unknown>
+#5 0x561fba625764 <unknown>
+#6 0x561fba60c5cd <unknown>
+#7 0x561fba6237c4 <unknown>
+#8 0x561fba60c7f3 <unknown>
+#9 0x561fba5e1ea3 <unknown>
+#10 0x561fba5e3255 <unknown>
+#11 0x561fba86a1b0 <unknown>
+#12 0x561fba87cacf <unknown>
+#13 0x561fba87c510 <unknown>
+#14 0x561fba87d1e5 <unknown>
+#15 0x561fba8c151a <unknown>
+#16 0x561fba87d524 <unknown>
+#17 0x561fba85beae <unknown>
+#18 0x561fba888768 <unknown>
+#19 0x561fba888887 <unknown>
+#20 0x561fba8a1ef0 <unknown>
+#21 0x7f6e28a09ac3 <unknown>
+#22 0x7f6e28a9aa04 clone
+
+[2025-06-13 05:00] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x558f860d4ac2 <unknown>
+#1 0x558f8607f1f3 <unknown>
+#2 0x558f85df53a4 <unknown>
+#3 0x558f85e2b99f <unknown>
+#4 0x558f85e2bc41 <unknown>
+#5 0x558f85e65764 <unknown>
+#6 0x558f85e4c5cd <unknown>
+#7 0x558f85e637c4 <unknown>
+#8 0x558f85e4c7f3 <unknown>
+#9 0x558f85e21ea3 <unknown>
+#10 0x558f85e23255 <unknown>
+#11 0x558f860aa1b0 <unknown>
+#12 0x558f860bcacf <unknown>
+#13 0x558f860bc510 <unknown>
+#14 0x558f860bd1e5 <unknown>
+#15 0x558f8610151a <unknown>
+#16 0x558f860bd524 <unknown>
+#17 0x558f8609beae <unknown>
+#18 0x558f860c8768 <unknown>
+#19 0x558f860c8887 <unknown>
+#20 0x558f860e1ef0 <unknown>
+#21 0x7fefb1b35ac3 <unknown>
+#22 0x7fefb1bc6a04 clone
+
+[2025-06-13 05:15] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x5641a9572ac2 <unknown>
+#1 0x5641a951d1f3 <unknown>
+#2 0x5641a92933a4 <unknown>
+#3 0x5641a92c999f <unknown>
+#4 0x5641a92c9c41 <unknown>
+#5 0x5641a9303764 <unknown>
+#6 0x5641a92ea5cd <unknown>
+#7 0x5641a93017c4 <unknown>
+#8 0x5641a92ea7f3 <unknown>
+#9 0x5641a92bfea3 <unknown>
+#10 0x5641a92c1255 <unknown>
+#11 0x5641a95481b0 <unknown>
+#12 0x5641a955aacf <unknown>
+#13 0x5641a955a510 <unknown>
+#14 0x5641a955b1e5 <unknown>
+#15 0x5641a959f51a <unknown>
+#16 0x5641a955b524 <unknown>
+#17 0x5641a9539eae <unknown>
+#18 0x5641a9566768 <unknown>
+#19 0x5641a9566887 <unknown>
+#20 0x5641a957fef0 <unknown>
+#21 0x7fdc131e1ac3 <unknown>
+#22 0x7fdc13272a04 clone
+
+[2025-06-13 17:02] ✅ Save completed: ctgr_0613_17.csv
+[2025-06-13 17:15] ❌ Error occurred: HTTPConnectionPool(host='localhost', port=38381): Read timed out. (read timeout=120)
+[2025-06-14 05:02] ✅ Save completed: ctgr_0614_05.csv
+[2025-06-14 05:34] ✅ Save completed: subctgr_0614_05.csv
+[2025-06-14 17:02] ✅ Save completed: ctgr_0614_17.csv
+[2025-06-14 17:36] ✅ Save completed: subctgr_0614_17.csv
+[2025-06-15 05:01] ✅ Save completed: ctgr_0615_05.csv
+[2025-06-15 05:33] ✅ Save completed: subctgr_0615_05.csv
+[2025-06-15 17:01] ✅ Save completed: ctgr_0615_17.csv
+[2025-06-15 17:33] ✅ Save completed: subctgr_0615_17.csv
+[2025-06-16 05:01] ✅ Save completed: ctgr_0616_05.csv
+[2025-06-16 05:33] ✅ Save completed: subctgr_0616_05.csv
+[2025-06-16 17:02] ✅ Save completed: ctgr_0616_17.csv
+[2025-06-16 17:34] ✅ Save completed: subctgr_0616_17.csv
+[2025-06-17 05:02] ✅ Save completed: ctgr_0617_05.csv
+[2025-06-17 05:33] ✅ Save completed: subctgr_0617_05.csv
+[2025-06-17 17:02] ✅ Save completed: ctgr_0617_17.csv
+[2025-06-17 17:33] ✅ Save completed: subctgr_0617_17.csv
+[2025-06-18 05:02] ✅ Save completed: ctgr_0618_05.csv
+[2025-06-18 05:15] ❌ Error occurred: HTTPConnectionPool(host='localhost', port=50393): Read timed out. (read timeout=120)
+[2025-06-18 17:02] ✅ Save completed: ctgr_0618_17.csv
+[2025-06-18 17:15] ❌ Error occurred: HTTPConnectionPool(host='localhost', port=60547): Read timed out. (read timeout=120)
+[2025-06-19 05:02] ✅ Save completed: ctgr_0619_05.csv
+[2025-06-19 05:34] ✅ Save completed: subctgr_0619_05.csv
+[2025-06-19 17:02] ✅ Save completed: ctgr_0619_17.csv
+[2025-06-19 17:34] ✅ Save completed: subctgr_0619_17.csv
+[2025-06-20 05:02] ✅ Save completed: ctgr_0620_05.csv
+[2025-06-20 05:34] ✅ Save completed: subctgr_0620_05.csv
+[2025-06-20 17:01] ✅ Save completed: ctgr_0620_17.csv
+[2025-06-20 17:34] ✅ Save completed: subctgr_0620_17.csv
+[2025-06-21 05:01] ✅ Save completed: ctgr_0621_05.csv
+[2025-06-21 05:15] ❌ Error occurred: HTTPConnectionPool(host='localhost', port=41817): Read timed out. (read timeout=120)
+[2025-06-21 17:02] ✅ Save completed: ctgr_0621_17.csv
+[2025-06-21 17:15] ❌ Error occurred: HTTPConnectionPool(host='localhost', port=54527): Read timed out. (read timeout=120)
+[2025-06-22 05:01] ✅ Save completed: ctgr_0622_05.csv
+[2025-06-22 05:15] ❌ Error occurred: HTTPConnectionPool(host='localhost', port=43925): Read timed out. (read timeout=120)
+[2025-06-22 17:02] ✅ Save completed: ctgr_0622_17.csv
+[2025-06-22 17:34] ✅ Save completed: subctgr_0622_17.csv
+[2025-06-23 05:01] ✅ Save completed: ctgr_0623_05.csv
+[2025-06-23 05:37] ✅ Save completed: subctgr_0623_05.csv
+[2025-06-23 17:02] ✅ Save completed: ctgr_0623_17.csv
+[2025-06-23 17:34] ✅ Save completed: subctgr_0623_17.csv
+[2025-06-24 05:02] ✅ Save completed: ctgr_0624_05.csv
+[2025-06-24 05:34] ✅ Save completed: subctgr_0624_05.csv
+[2025-06-24 17:02] ✅ Save completed: ctgr_0624_17.csv
+[2025-06-24 17:38] ✅ Save completed: subctgr_0624_17.csv
+[2025-06-25 05:01] ✅ Save completed: ctgr_0625_05.csv
+[2025-06-25 05:15] ❌ Error occurred: HTTPConnectionPool(host='localhost', port=32927): Read timed out. (read timeout=120)
+[2025-06-25 17:02] ✅ Save completed: ctgr_0625_17.csv
+[2025-06-25 17:15] ❌ Error occurred: HTTPConnectionPool(host='localhost', port=52743): Read timed out. (read timeout=120)
+[2025-06-26 05:02] ✅ Save completed: ctgr_0626_05.csv
+[2025-06-26 05:35] ✅ Save completed: subctgr_0626_05.csv
+[2025-06-26 17:02] ✅ Save completed: ctgr_0626_17.csv
+[2025-06-26 17:34] ✅ Save completed: subctgr_0626_17.csv
+[2025-06-27 05:02] ✅ Save completed: ctgr_0627_05.csv
+[2025-06-27 05:34] ✅ Save completed: subctgr_0627_05.csv
+[2025-06-27 17:02] ✅ Save completed: ctgr_0627_17.csv
+[2025-06-27 17:35] ✅ Save completed: subctgr_0627_17.csv
+[2025-06-28 05:02] ✅ Save completed: ctgr_0628_05.csv
+[2025-06-28 05:34] ✅ Save completed: subctgr_0628_05.csv
+[2025-06-28 17:02] ✅ Save completed: ctgr_0628_17.csv
+[2025-06-28 17:15] ❌ Error occurred: HTTPConnectionPool(host='localhost', port=37833): Read timed out. (read timeout=120)
+[2025-06-29 05:02] ✅ Save completed: ctgr_0629_05.csv
+[2025-06-29 05:15] ❌ Error occurred: HTTPConnectionPool(host='localhost', port=39517): Read timed out. (read timeout=120)
+[2025-06-29 17:02] ✅ Save completed: ctgr_0629_17.csv
+[2025-06-29 17:37] ✅ Save completed: subctgr_0629_17.csv
+[2025-06-30 05:00] ❌ Error occurred: Message: 
+Stacktrace:
+#0 0x5654f0d45ac2 <unknown>
+#1 0x5654f0cf01f3 <unknown>
+#2 0x5654f0a663a4 <unknown>
+#3 0x5654f0a9c99f <unknown>
+#4 0x5654f0a9cc41 <unknown>
+#5 0x5654f0ad6764 <unknown>
+#6 0x5654f0abd5cd <unknown>
+#7 0x5654f0ad47c4 <unknown>
+#8 0x5654f0abd7f3 <unknown>
+#9 0x5654f0a92ea3 <unknown>
+#10 0x5654f0a94255 <unknown>
+#11 0x5654f0d1b1b0 <unknown>
+#12 0x5654f0d2dacf <unknown>
+#13 0x5654f0d2d510 <unknown>
+#14 0x5654f0d2e1e5 <unknown>
+#15 0x5654f0d7251a <unknown>
+#16 0x5654f0d2e524 <unknown>
+#17 0x5654f0d0ceae <unknown>
+#18 0x5654f0d39768 <unknown>
+#19 0x5654f0d39887 <unknown>
+#20 0x5654f0d52ef0 <unknown>
+#21 0x7f7df4dcaac3 <unknown>
+#22 0x7f7df4e5ba04 clone
+
+[2025-06-30 05:15] ❌ Error occurred: HTTPConnectionPool(host='localhost', port=47939): Read timed out. (read timeout=120)
+[2025-06-30 17:02] ✅ Save completed: ctgr_0630_17.csv
+[2025-06-30 17:35] ✅ Save completed: subctgr_0630_17.csv
+[2025-07-01 05:02] ✅ Save completed: ctgr_0701_05.csv
+[2025-07-01 05:35] ✅ Save completed: subctgr_0701_05.csv
+[2025-07-01 17:02] ✅ Save completed: ctgr_0701_17.csv
+[2025-07-01 17:37] ✅ Save completed: subctgr_0701_17.csv
+[2025-07-02 05:02] ✅ Save completed: ctgr_0702_05.csv
+[2025-07-02 05:34] ✅ Save completed: subctgr_0702_05.csv
+[2025-07-02 17:02] ✅ Save completed: ctgr_0702_17.csv
+[2025-07-02 17:34] ✅ Save completed: subctgr_0702_17.csv
+[2025-07-03 05:02] ✅ Save completed: ctgr_0703_05.csv
+[2025-07-03 05:34] ✅ Save completed: subctgr_0703_05.csv
+[2025-07-03 17:02] ✅ Save completed: ctgr_0703_17.csv
+[2025-07-03 17:37] ✅ Save completed: subctgr_0703_17.csv
+[2025-07-04 05:02] ✅ Save completed: ctgr_0704_05.csv
+[2025-07-04 05:35] ✅ Save completed: subctgr_0704_05.csv
+[2025-07-04 17:02] ✅ Save completed: ctgr_0704_17.csv
+[2025-07-04 17:35] ✅ Save completed: subctgr_0704_17.csv
+[2025-07-05 05:02] ✅ Save completed: ctgr_0705_05.csv
+[2025-07-05 05:35] ✅ Save completed: subctgr_0705_05.csv
+[2025-07-05 17:02] ✅ Save completed: ctgr_0705_17.csv
+[2025-07-05 17:34] ✅ Save completed: subctgr_0705_17.csv
+[2025-07-06 05:02] ✅ Save completed: ctgr_0706_05.csv
+[2025-07-06 05:34] ✅ Save completed: subctgr_0706_05.csv
+[2025-07-06 17:02] ✅ Save completed: ctgr_0706_17.csv
+[2025-07-06 17:15] ❌ Error occurred: HTTPConnectionPool(host='localhost', port=38725): Read timed out. (read timeout=120)
+[2025-07-07 05:02] ✅ Save completed: ctgr_0707_05.csv
+[2025-07-07 05:37] ✅ Save completed: subctgr_0707_05.csv
+[2025-07-07 17:02] ✅ Save completed: ctgr_0707_17.csv
+[2025-07-07 17:37] ✅ Save completed: subctgr_0707_17.csv
+[2025-07-08 05:00] ❌ Error occurred: HTTPConnectionPool(host='localhost', port=44119): Read timed out. (read timeout=120)
+[2025-07-08 05:37] ✅ Save completed: subctgr_0708_05.csv
+[2025-07-08 17:02] ✅ Save completed: ctgr_0708_17.csv
+[2025-07-08 17:35] ✅ Save completed: subctgr_0708_17.csv
+[2025-07-09 05:02] ✅ Save completed: ctgr_0709_05.csv
+[2025-07-09 05:37] ✅ Save completed: subctgr_0709_05.csv
+[2025-07-09 17:02] ✅ Save completed: ctgr_0709_17.csv
+[2025-07-09 17:36] ✅ Save completed: subctgr_0709_17.csv
+[2025-07-10 05:01] ✅ Save completed: ctgr_0710_05.csv
+[2025-07-10 05:37] ✅ Save completed: subctgr_0710_05.csv
+[2025-07-10 17:02] ✅ Save completed: ctgr_0710_17.csv
+[2025-07-10 17:35] ✅ Save completed: subctgr_0710_17.csv
+[2025-07-11 05:03] ✅ Save completed: ctgr_0711_05.csv
+[2025-07-11 05:36] ✅ Save completed: subctgr_0711_05.csv
+[2025-07-11 17:02] ✅ Save completed: ctgr_0711_17.csv
+[2025-07-11 17:36] ✅ Save completed: subctgr_0711_17.csv
+[2025-07-12 05:02] ✅ Save completed: ctgr_0712_05.csv
+[2025-07-12 05:37] ✅ Save completed: subctgr_0712_05.csv
+[2025-07-12 17:02] ✅ Save completed: ctgr_0712_17.csv
+[2025-07-12 17:35] ✅ Save completed: subctgr_0712_17.csv
+[2025-07-13 05:02] ✅ Save completed: ctgr_0713_05.csv
+[2025-07-13 05:35] ✅ Save completed: subctgr_0713_05.csv
