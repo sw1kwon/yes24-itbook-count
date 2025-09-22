@@ -39,7 +39,13 @@ This folder contains the Jupyter notebooks used for crawling YES24 IT Mobile cat
 - **Status**: Deprecated (server computer issues)
 
 ### autocr6.ipynb
-- **Period**: 2025.08.12 ~ Present
+- **Period**: 2025.08.12 ~ 2025.09.21
+- **Description**: Same codebase
+- **File Format**: `ctgr_YYMMDD_HH.csv`, `subctgr_YYMMDD_HH.csv`
+- **Status**: Deprecated (server computer issues)
+
+### autocr7.ipynb
+- **Period**: 2025.09.22 ~ Present
 - **Description**: Same codebase
 - **File Format**: `ctgr_YYMMDD_HH.csv`, `subctgr_YYMMDD_HH.csv`
 - **Status**: Active
