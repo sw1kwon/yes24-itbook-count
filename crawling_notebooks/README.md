@@ -9,43 +9,49 @@ This folder contains the Jupyter notebooks used for crawling YES24 IT Mobile cat
 - **Description**: Initial crawler implementation
 - **File Format**: `ctgr_MMDD_HH.csv`, `subctgr_MMDD_HH.csv`
 - **Notes**: Files later renamed to YYMMDD format for consistency
-- **Status**: Deprecated (accidentally terminated kernel)
+- **Status**: Deprecated (Accidentally terminated kernel)
 
 ### autocr2.ipynb
 - **Period**: 2025.05.14 ~ 2025.07.12
 - **Description**: Same codebase
 - **File Format**: `ctgr_MMDD_HH.csv`, `subctgr_MMDD_HH.csv`
 - **Notes**: Includes period affected by YES24 service disruption (June 9-13). Files later renamed to YYMMDD format for consistency
-- **Status**: Deprecated (server computer issues)
+- **Status**: Deprecated (Server computer issues)
 
 ### autocr3.ipynb
 - **Period**: 2025.07.13 ~ 2025.07.13
 - **Description**: Same codebase
 - **File Format**: `ctgr_MMDD_HH.csv`, `subctgr_MMDD_HH.csv`
 - **Notes**: Functions not executed at 17:00, 17:15 due to server computer issues. Files later renamed to YYMMDD format for consistency
-- **Status**: Deprecated (server computer issues)
+- **Status**: Deprecated (Server computer issues)
 
 ### autocr4.ipynb
 - **Period**: 2025.07.14 ~ 2025.08.01
 - **Description**: Improved stability and retry logic. Updated file naming with year prefix
 - **File Format**: `ctgr_YYMMDD_HH.csv`, `subctgr_YYMMDD_HH.csv`
-- **Status**: Deprecated (server computer issues)
+- **Status**: Deprecated (Server computer issues)
 
 ### autocr5.ipynb
 - **Period**: 2025.08.02 ~ 2025.08.12
 - **Description**: Same codebase
 - **File Format**: `ctgr_MMDD_HH.csv`, `subctgr_MMDD_HH.csv`
 - **Notes**: Includes period affected by YES24 service disruption (August 11).
-- **Status**: Deprecated (server computer issues)
+- **Status**: Deprecated (Server computer issues)
 
 ### autocr6.ipynb
 - **Period**: 2025.08.12 ~ 2025.09.21
 - **Description**: Same codebase
 - **File Format**: `ctgr_YYMMDD_HH.csv`, `subctgr_YYMMDD_HH.csv`
-- **Status**: Deprecated (server computer issues)
+- **Status**: Deprecated (Server computer issues)
 
 ### autocr7.ipynb
-- **Period**: 2025.09.22 ~ Present
+- **Period**: 2025.09.22 ~ 2025.10.08
+- **Description**: Same codebase
+- **File Format**: `ctgr_YYMMDD_HH.csv`, `subctgr_YYMMDD_HH.csv`
+- **Status**: Deprecated (Server computer unavailable due to maintenance at the university substation)
+
+### autocr8.ipynb
+- **Period**: 2025.10.13 ~ Present
 - **Description**: Same codebase
 - **File Format**: `ctgr_YYMMDD_HH.csv`, `subctgr_YYMMDD_HH.csv`
 - **Status**: Active
